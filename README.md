@@ -4,7 +4,7 @@ Gauche's `?=` like debug print reader
 
 ## Usage
 
-add dependencies
+add dev-dependencies
 
 ```clojure
 [debug-reader "0.0.1"]
